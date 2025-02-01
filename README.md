@@ -1,5 +1,5 @@
 ## Project Description
-This repository contains the files for implementing the game snake in verilog HDL written and tested using Intel Quartus Prime Design Suite. This was done for the group assessment for ELEC5566M at the University Of Leeds. The code is full modularised and parametrised to improve code readability. This read me first will take you through the files in the repository their description and location. Followed by a detailed description of each file and concludes with a user instruction manual
+This repository contains the files for implementing the game snake in verilog HDL written and tested using Intel Quartus Prime Design Suite. This was done for the group assessment at the University Of Leeds. The code is full modularised and parametrised to improve code readability. This read me first will take you through the files in the repository their description and location. Followed by a detailed description of each file and concludes with a user instruction manual
 
 | Location | File | Purpose |
 | ---  | --- | --- |
